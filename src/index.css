@@ -9,12 +9,6 @@ html {
 }
 
 body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100vh;
-	text-transform: uppercase;
-	font-size: 36px;
 	margin: 0;
 	background-color: #3f3f3f;
 }
